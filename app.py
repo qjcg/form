@@ -4,7 +4,7 @@
 import os
 from bottle import get, post, request, template, run
 
-HOST = 'localhost'
+HOST = '0.0.0.0'
 PORT = 9999
 
 
